@@ -26,3 +26,17 @@ body {
     margin: auto;
     width: 90%;
 }
+.products-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 80%;
+    /*border: 1px solid rebeccapurple;*/
+    margin: auto;
+
+    
+}
+.products-picture {
+    width: 40%;
+    margin: 10px;
+}
