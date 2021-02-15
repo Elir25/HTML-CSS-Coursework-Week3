@@ -3,6 +3,26 @@ body {
     
 }
 .container-fluid {
-    background-color: rgb(175, 24, 245);
+    background-color: rgb(164, 216, 211);
     
+}
+.main-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(pics/david-holifield-kPxsqUGneXQ-unsplash.jpg);
+    background-size: cover;
+    background-position: bottom;
+    padding: 20% 2%;
+    color: white;
+}
+.welcome {
+    margin: 30px 0;
+    padding: 0 2%;
+}
+.cake-pic-2 {
+    display: flex;
+    margin: auto;
+    width: 90%;
 }
